@@ -18,7 +18,7 @@ Welcome to my portfolio, where I showcase my projects.
 **🛠️ Tools**
 
 * Language: Python, Pandas
-* Database: Google BigQuery, PostgreSQL, MySQL
+* Database: SQLite, MySQL, MongoDB
 * Visualization: Matplotlib, Seaborn
 
 
