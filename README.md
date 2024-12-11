@@ -2,7 +2,7 @@
 
 ![Modern Desktop Writing Workshop Google Classroom Header ](https://github.com/user-attachments/assets/2ab4782c-6676-4be1-bb73-a67272c6cd03)
 
-Hello, I'm Vanessa. Passionate about Data Analytics and currently transitioning from a background in Customer Service, bringing strong problem-solving and data interpretation to contribute (to data analyst roles) within a dynamic team.
+Hello, I'm Vanessa. Passionate about Data Analytics and currently transitioning from a background in Customer Service, bringing strong problem-solving and data interpretation to bring my unique perspective to the field and continue learning in this dynamic and evolving space.
 
 * Querying data using Python.
 * Generate reports and perform ad-hoc data analysis using Python.
