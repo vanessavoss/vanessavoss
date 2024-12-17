@@ -24,4 +24,4 @@ Welcome to my portfolio, where I showcase my projects.
 
 ### **👋🏻 Connect with Me**
 
-[Linkedin](www.linkedin.com/in/vanessa-voss-134877318)
+[Linkedin](https://www.linkedin.com/in/vanessa-voss-134877318/)
