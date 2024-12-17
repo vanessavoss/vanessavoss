@@ -9,19 +9,19 @@ Hello, I'm Vanessa. Passionate about Data Analytics and currently transitioning 
 * Developing dashboards on Python and Panel.
 * Data analysis and reporting using Google Sheets and Excel.
 
-**📚 Projects**
+### **📚 Projects**
 
 Welcome to my portfolio, where I showcase my projects.
 
 
 
-**🛠️ Tools**
+### **🛠️ Tools**
 
 * Language: Python, Pandas
 * Database: SQLite, MySQL, MongoDB
 * Visualization: Matplotlib, Seaborn
 
 
-**👋🏻 Connect with Me**
+### **👋🏻 Connect with Me**
 
-Linkedin
+[Linkedin](www.linkedin.com/in/vanessa-voss-134877318)
